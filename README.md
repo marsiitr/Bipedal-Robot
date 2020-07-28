@@ -29,7 +29,7 @@ Bipedal robots are able to move in areas that are normally inaccessible to wheel
 ## Electronic Aspect
 1. Power Source 
 
-	11.1 Volts 2200mAh Li-Po battery is used as the power source for powering the Arduino as well as the Servo motors in the robot.
+	11.1 Volts 2200mAh Li-Po battery is used as the power source for powering the Arduino as well as the Servo motors, for the Servo motors IC814 chips are used to convert the battery voltage to the rating value of the Servo motors as well as ensuring optimum current flow in all the motors.
 
 2. Actuation
 
@@ -68,7 +68,7 @@ Bipedal robots are able to move in areas that are normally inaccessible to wheel
 1. Size can be changed so as to human activities and task. 
 2. Degree of freedom can be increased to give proper flexibility in all directions and orientation.
 3. Using Computer Vision for Obstacle detection, human recognition and corresponding Path planning.
-4. Using IoT, this bot can be controlled from anywhere and can be live-streamed using webcam. It can be made autonomous using ML
+4. Using IoT, this bot can be controlled from anywhere and can be live-streamed using webcam, it can be made autonomous using ML.
 
 ## Team Member
 1. [Aayush Ranjan]( https://github.com/Aayush-765 )
