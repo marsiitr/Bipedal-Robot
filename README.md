@@ -15,33 +15,33 @@ Srishti 2020
 
 1. Robot’s size selection
 
-<div style="text-align: justify;">Robot size plays a major role. Based on the cost of project, materials required for fabrication and the no. of actuators can be determined. In this project the size of the robot is preferred so a height of 300mm is decided which includes mountings of the control circuits, but the actual size of the robot is 230mm without controlling circuits.</div>
-
+   <div style="text-align: justify;">Robot size plays a major role. Based on the cost of project, materials required for fabrication and the no. of actuators can be determined. In this project the size of the robot is preferred so a height of 300mm is decided which includes mountings of the control circuits, but the actual size of the robot is 230mm without controlling circuits.
+   																																			</div>
 2. Degrees of Freedom (D.O.F)
 
-<div style="text-align: justify;">Human leg has got 6 degrees of freedom (Hip – 3 D.O.F , Knee – 1 D.O.F , Ankle – 2 D.O.F) , but implementing all the 6 D.O.F is difficult due to increase in cost of project and controlling of the actuators which become complex, so in this project reduced degrees of freedom is aimed so 3 D.O.F(Ankle , Knee and Hip) per leg has been finalized.</div>
-
+   <div style="text-align: justify;">Human leg has got 6 degrees of freedom (Hip – 3 D.O.F , Knee – 1 D.O.F , Ankle – 2 D.O.F) , but implementing all the 6 D.O.F is difficult due to increase in cost of project and controlling of the actuators which become complex, so in this project reduced degrees of freedom is aimed so 3 D.O.F(Ankle , Knee and Hip) per leg has been finalized.
+   																																			</div>
 3. Foot Pad Design
 
-<div style="text-align: justify;">The stability of the robot is determined by the foot pad. Generally, there is concept that oversized and heavy foot pad will have more stability due to more contact area. But there is a disadvantage in using the oversized and heavy foot pad, because the torque requirement of the motor is more and lifting the leg against the gravity becomes difficult. By considering this disadvantage an optimal sized foot pad was used. Dimensions of the foot pad are 75x70mm. </div>
-
+   <div style="text-align: justify;">The stability of the robot is determined by the foot pad. Generally, there is concept that oversized and heavy foot pad will have more stability due to more contact area. But there is a disadvantage in using the oversized and heavy foot pad, because the torque requirement of the motor is more and lifting the leg against the gravity becomes difficult. By considering this disadvantage an optimal sized foot pad was used. Dimensions of the foot pad are 75x70mm.
+   																																			</div>
 ## Electronic Aspect
 1. Power Source 
 
-<div style="text-align: justify;">11.1 Volts 2200mAh Li-Po battery is used as the power source for powering the Arduino as well as the Servo motors, for the Servo motors IC814 chips are used to convert the battery voltage to the rating value of the Servo motors as well as ensuring optimum current flow in all the motors.
-
+   <div style="text-align: justify;">11.1 Volts 2200mAh Li-Po battery is used as the power source for powering the Arduino as well as the Servo motors, for the Servo motors IC814 chips are used to convert the battery voltage to the rating value of the Servo motors as well as ensuring optimum current flow in all the motors.
+   																																			</div>
 2. Actuation
 
- <div style="text-align: justify;">All the movement is actuated using Metal gear Servo motors, one motor is used for a single degree of freedom, so six Servo motors in all are needed for the 6 degree of freedoms in the robot.</div> 
-
+   <div style="text-align: justify;">All the movement is actuated using Metal gear Servo motors, one motor is used for a single degree of freedom, so six Servo motors in all are needed for the 6 degree of freedoms in the robot.
+   																																			</div>
 3. Motor Selection
 
-<div style="text-align: justify;">The choice of motors was based on the idea of reducing weight as well as creating a less complex feedback mechanism, hence the choice of using high torque metal gear position control DC Servo motors was appropriate under the given constraints.</div>
-
+   <div style="text-align: justify;">The choice of motors was based on the idea of reducing weight as well as creating a less complex feedback mechanism, hence the choice of using high torque metal gear position control DC Servo motors was appropriate under the given constraints.
+   																																			</div>
 4. Microcontroller 
 
-<div style="text-align: justify;">Arduino UNO R3 is used as the microcontroller which can operate six Servo motors at a time, enabling various types of motion such as forward, backward etc.</div>
-
+   <div style="text-align: justify;">Arduino UNO R3 is used as the microcontroller which can operate six Servo motors at a time, enabling various types of motion such as forward, backward etc.
+   																																			</div>
 ## Cost Structure 
 
 | Materials  | Cost(INR) |
