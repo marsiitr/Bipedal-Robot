@@ -73,11 +73,11 @@ Bipedal robots are able to move in areas that are normally inaccessible to wheel
 ## Team Member
 1. [Aayush Ranjan]( https://github.com/Aayush-765 )
 2. [Chirag Baghla]( https://github.com/chiragbaghla )
-3. [Ila Dwiwedi]()
+3. [Ila Dwiwedi]( https://github.com/ildwi)
 4. [Meenakshi Gausingha]( https://github.com/Meenakshi1791)
 5. [Prawal Pratap Singh]( https://github.com/ppsr7355 )
-6. Roshan Kumar Choudhary(https://github.com/roshan-121)
-7. Upasana(https://github.com/Upasana202)
+6. [Roshan Kumar Choudhary]( https://github.com/roshan-121)
+7. [Upasana]( https://github.com/Upasana202)
 
 ## Mentor
 1. Dhruv Sehgal
