@@ -13,25 +13,39 @@ The Bipedal Robot is a humanoid robot modeled to mimic the walking of a human, t
 Bipedal robots are able to move in areas that are normally inaccessible to wheeled robots, such as stairs and areas littered with obstacles that make wheeled locomotion impossible, also they can be an asset which can work in hazardous conditions.
 
 ## Mechanical Aspect
+
 1. Robot’s size selection
+
 Robot size plays a major role. Based on the cost of project, materials required for fabrication and the no. of actuators can be determined. In this project the size of the robot is preferred so a height of 300mm is decided which includes mountings of the control circuits, but the actual size of the robot is 230mm without controlling circuits.
+
 2. Degrees of Freedom (D.O.F)
+
 Human leg has got 6 degrees of freedom (Hip – 3 D.O.F , Knee – 1 D.O.F , Ankle – 2 D.O.F) , but implementing all the 6 D.O.F is difficult due to increase in cost of project and controlling of the actuators which become complex, so in this project reduced degrees of freedom is aimed so 3 D.O.F(Ankle , Knee and Hip) per leg has been finalized.
+
 3. Foot Pad Design
+
 The stability of the robot is determined by the foot pad. Generally, there is concept that oversized and heavy foot pad will have more stability due to more contact area. But there is a disadvantage in using the oversized and heavy foot pad, because the torque requirement of the motor is more and lifting the leg against the gravity becomes difficult. By considering this disadvantage an optimal sized foot pad was used. Dimensions of the foot pad are 75*70mm.
 
 
 ## Electronic Aspect
 1. Power Source 
+
 11.1 Volts 2200mAh Li-Po battery is used as the power source for powering the Arduino as well as the Servo motors.
+
 2. Actuation
+
  All the movement is actuated using Metal gear Servo motors, one motor is used for a single degree of freedom.  
+
 3. Motor Selection
+
 The choice of motors was based on the idea of reducing weight as well as creating a less complex feedback mechanism, hence the choice of using high torque metal gear position control DC Servo motors was appropriate under the given constraints.
+
 4. Microcontroller 
+
 Arduino UNO R3 is used as the microcontroller which can operate six Servo motors at a time, enabling various types of motion such as forward, backward etc. 
 
 ## Cost Structure 
+
 | Materials  | Cost(INR) |
 | ------------- | ------------- |
 | 6 DC Servo Motors | 3000 |
