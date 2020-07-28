@@ -1,5 +1,6 @@
 # Bipedal-Robot
-Srishti 2020
+##Srishti 2020
+
 ![](https://github.com/Aayush-765/Bipedal-Robot/blob/master/Images%20and%20Videos/Images/Front%20View.png)
 
 # Abstract
@@ -22,7 +23,6 @@ The stability of the robot is determined by the foot pad. Generally, there is co
 ## Electronic Aspect
 1. Power Source 
 11.1 Volts 2200mAh Li-Po battery is used as the power source for powering the Arduino as well as the Servo motors.
-
 2. Actuation
  All the movement is actuated using Metal gear Servo motors, one motor is used for a single degree of freedom.  
 3. Motor Selection
