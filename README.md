@@ -64,13 +64,13 @@ Srishti 2020
 4. <p align="justify">Using IoT, this bot can be controlled from anywhere and can be live-streamed using webcam, it can be made autonomous using ML.</p>
 
 ## Team Member
-1. <p align="justify">[Aayush Ranjan]( https://github.com/Aayush-765 )</p>
-2. <p align="justify">[Chirag Baghla]( https://github.com/chiragbaghla )</p>
-3. <p align="justify">[Ila Dwiwedi]( https://github.com/ildwi)</p>
-4. <p align="justify">[Meenakshi Gausingha]( https://github.com/Meenakshi1791)</p>
-5. <p align="justify">[Prawal Pratap Singh]( https://github.com/ppsr7355 )</p>
-6. <p align="justify">[Roshan Kumar Choudhary]( https://github.com/roshan-121)</p>
-7. <p align="justify">[Upasana]( https://github.com/Upasana202)</p>
+1. [Aayush Ranjan]( https://github.com/Aayush-765 )
+2. [Chirag Baghla]( https://github.com/chiragbaghla )
+3. [Ila Dwiwedi]( https://github.com/ildwi)
+4. [Meenakshi Gausingha]( https://github.com/Meenakshi1791)
+5. [Prawal Pratap Singh]( https://github.com/ppsr7355 )
+6. [Roshan Kumar Choudhary]( https://github.com/roshan-121)
+7. [Upasana]( https://github.com/Upasana202)
 
 ## Mentor
 1. <p align="justify">Dhruv Sehgal</p>
