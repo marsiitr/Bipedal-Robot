@@ -48,9 +48,9 @@ Srishti 2020
 
 ## Applications
 1. <div align="justify">The movement of the robot can be controlled by using a remote controller.</div>
-2. <p align="justify">The bipedal robot can assist humans to carry out the tasks or activities in hazardous environment which could eliminate human's risk of injury or life casualty.</p>
-3. <p align="justify">They can be used for household work for the disabled or someone  suffering from any disease.</p>
-4. <p align="justify">They are used at rough terrains where wheeled robots cannot be used.</p>
+2. <div align="justify">The bipedal robot can assist humans to carry out the tasks or activities in hazardous environment which could eliminate human's risk of injury or life casualty.</div>
+3. <div align="justify">They can be used for household work for the disabled or someone  suffering from any disease.</div>
+4. <div align="justify">They are used at rough terrains where wheeled robots cannot be used.</div>
 
 ## Limitations
 1. <p align="justify">Currently the robot has only 6 degree of freedom, so the motion has some constraints.</p>
