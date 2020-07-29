@@ -63,7 +63,7 @@ Srishti 2020
 3. <div align="justify">Using Computer Vision for Obstacle detection, human recognition and corresponding Path planning.</div>
 4. <div align="justify">Using IoT, this bot can be controlled from anywhere and can be live-streamed using webcam, it can be made autonomous using ML.</div>
 
-## Team Member
+## Team Members
 1. [Aayush Ranjan]( https://github.com/Aayush-765 )
 2. [Chirag Baghla]( https://github.com/chiragbaghla )
 3. [Ila Dwiwedi]( https://github.com/ildwi)
@@ -72,7 +72,7 @@ Srishti 2020
 6. [Roshan Kumar Choudhary]( https://github.com/roshan-121)
 7. [Upasana]( https://github.com/Upasana202)
 
-## Mentor
+## Mentors
 1. <div align="justify">Dhruv Sehgal</div>
 2. <div align="justify">Kunal Kumar</div>
 
